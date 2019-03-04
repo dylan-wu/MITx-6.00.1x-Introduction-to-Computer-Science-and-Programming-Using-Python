@@ -8,7 +8,7 @@
 ## Videos
 
 Playlist (1:03:12)
-[ Link ](https://www.youtube.com/watch?v=4MbDZho3pIY&list=PL4zlr9pvbVceptzqKh1UprbFX6OETPpVQ) | <details><summary>Display</summary><iframe width="650px" height="450" src="https://www.youtube.com/embed/videoseries?list=PL4zlr9pvbVceptzqKh1UprbFX6OETPpVQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </details> |
+[ Link ](https://www.youtube.com/watch?v=aTfKDxsjZNU&&list=PLSl48-6ESzFZomWVRa0FQpiSpzOQiKsO_) | <details><summary>Display</summary><iframe width="650px" height="450" src="https://www.youtube.com/embed/videoseries?list=PLSl48-6ESzFZomWVRa0FQpiSpzOQiKsO_" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </details> |
 |-|-|
 
 Notes:
